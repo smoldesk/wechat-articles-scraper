@@ -122,12 +122,12 @@ Export as JSON, CSV or Excel, or send it to Google Sheets, Slack, Make, Zapier o
 
 ## Pricing
 
-Pay per article. No monthly fee. Each article is charged once.
+Pay per article. No monthly fee. Each article is charged once. Prices drop on paid Apify plans.
 
-| Result | Per 1,000 |
-|---|---|
-| Article with full text | $8 |
-| Search card only (full text off, or the article couldn't be opened) | $2 |
+| Result (per 1,000) | Free | Starter | Scale | Business |
+|---|---|---|---|---|
+| Article with full text | $8.00 | $8.00 | $7.00 | $6.00 |
+| Search card only (full text off, or the article couldn't be opened) | $2.00 | $2.00 | $1.75 | $1.50 |
 
 Duplicates, articles outside your date range and articles skipped by Only new articles are not charged.
 
