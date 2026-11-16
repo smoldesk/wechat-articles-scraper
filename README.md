@@ -1,5 +1,7 @@
 # WeChat Articles Scraper
 
+> **Temporarily paused for maintenance.** Full-text results are unavailable for now. Please check back later.
+
 ![WeChat Articles Scraper: 公众号 articles with full text, images and account details without login](https://raw.githubusercontent.com/smoldesk/apify-scrapers/main/assets/wechat/banner.webp)
 
 Scrape WeChat Official Account (微信公众号) articles without a WeChat account, login, cookies or API key. Search any keyword and get each article's full text as Markdown and plain text, all images, title, publish time, account name and ID (gh_…), author, the original/repost flag (原创) and the IP location WeChat shows. Runs on [Apify](https://apify.com/smoldesk/wechat-articles-scraper).
